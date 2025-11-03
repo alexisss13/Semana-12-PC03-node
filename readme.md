@@ -166,13 +166,9 @@ curl -X DELETE https://TU-URL-DE-RENDER.onrender.com/api/products/1
 
 ## 📸 Capturas de Pantalla (Ejemplos)
 
-*(Aquí puedes añadir capturas de pantalla de tus pruebas en Postman o Insomnia)*
 
-**Ejemplo de Petición POST en Postman:**  
-![Postman POST](ruta/a/tu/imagen-post.png)
-
-**Ejemplo de Respuesta GET en Postman:**  
-![Postman GET](ruta/a/tu/imagen-get.png)
+**Ejemplo de Respuesta POST en ThunderClient:**  
+(![ejemplo](image.png))
 
 ---
 
