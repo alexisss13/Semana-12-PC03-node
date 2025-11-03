@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ¡No pongas nada más aquí por ahora! 
+  Ni @theme, ni :root, ni variables de color.
+  La configuración de colores va en el archivo .ts
+*/

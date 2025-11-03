@@ -168,7 +168,7 @@ curl -X DELETE https://TU-URL-DE-RENDER.onrender.com/api/products/1
 
 
 **Ejemplo de Respuesta POST en ThunderClient:**  
-(![ejemplo](image.png))
+![ejemplo](image.png)
 
 ---
 
